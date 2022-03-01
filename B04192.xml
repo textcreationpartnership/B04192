@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French Kings new declaration (being his publick manifesto in vindication of himself and the late King James from being any ways aiding, assisting or privy to the late intended assassination of King William.) / Translated from the original at Paris.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04192</idno>
+            <idno type="STC">Wing L3132A</idno>
+            <idno type="STC">ESTC R180086</idno>
+            <idno type="EEBO-CITATION">53981543</idno>
+            <idno type="OCLC">ocm 53981543</idno>
+            <idno type="VID">180278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180278)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French Kings new declaration (being his publick manifesto in vindication of himself and the late King James from being any ways aiding, assisting or privy to the late intended assassination of King William.) / Translated from the original at Paris.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Vray, book-seller in the Strand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Original title not found.</note>
+                  <note>In two columns.</note>
+                  <note>Dated at end: Dated from Our Court at Versailes, April the first, 1696.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Assassination attempt, 1696.</term>
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180278:1" rendition="simple:additions"/>
+            <head>THE <hi>French Kings New</hi> DECLARATION</head>
+            <p>Tranſlated from the ORIGINAL at <hi>Paris.</hi>
+            </p>
+            <p>[Being his Publick MANIFESTO, in Vindication of Himſelf, and the late King <hi>James,</hi> from being any ways Aiding, Aſſiſting or Privy to the late intended ASSAS<g ref="char:EOLhyphen"/>SINATION of King <hi>WILLIAM.</hi>]</p>
+            <p>WHereas by Our Advice from <hi>England,</hi> We have receiv<g ref="char:EOLhyphen"/>ed Information of an In<g ref="char:EOLhyphen"/>tended <hi>Aſſaſſination</hi> deſign'd upon the <hi>Perſon</hi> of the <hi>Prince</hi> of <hi>Orange;</hi> and, That the falſe and ſcandalous Suggeſti<g ref="char:EOLhyphen"/>ons of Our <hi>Enemies</hi> have induſtriouſly endeavoured to inſinuate, That <hi>Our Self,</hi> and Our Deareſt <hi>Brother <hi>James,</hi>
+               </hi> King of Great <hi>Britain,</hi> have been <hi>Aiders</hi> and <hi>Abettors</hi> to the ſaid <hi>Aſſaſſination,</hi> at which We are the leſs ſurprized as being but highly ſenſible, that the <hi>Luſtre</hi> of the <hi>Great</hi> is but too often ſhaded by <hi>Slander</hi> and <hi>De<g ref="char:EOLhyphen"/>traction</hi> from the Mouths of <hi>Malice</hi> and <hi>Envy.</hi>
+            </p>
+            <p>Nevertheleſs, to diſpel that <hi>Empty</hi> Cloud, We think Our Selves obliged, in Right to Our <hi>Traduced</hi> and <hi>Injured <hi>Honour,</hi>
+               </hi> to Publiſh this following <hi>De<g ref="char:EOLhyphen"/>claration.</hi>
+            </p>
+            <p>And, that the <hi>Guarrantee</hi> of Our <hi>Royal Word,</hi> Our preſent <hi>Onely <hi>Vindication,</hi>
+               </hi> may carry its juſt Weight, and obviate all that <hi>Spight</hi> or <hi>Obſtinancy</hi> may, or ſhall object, againſt that <hi>Vn<g ref="char:EOLhyphen"/>queſtion'd <hi>Authority;</hi>
+               </hi> We think fit, <hi>Firſt,</hi> to Remonſtrate, what conſtant <hi>Veneration</hi> We have ever Paid to Our <hi>Vows</hi> and <hi>Proteſtations;</hi> ſuch as Our <hi>Publick <hi>Oaths</hi>
+               </hi> againſt <hi>Infringing</hi> the EDICT of <hi>NANTS;</hi> and Our no leſs <hi>Publick Sacrament</hi> at the <hi>High-Altar</hi> againſt all INVASION of <hi>FLANDERS:</hi> As Our conſtant well-known <hi>Tenderneſs</hi> therefore for the <hi>Peace</hi> of <hi>Chriſtendom</hi> abroad, and the <hi>Conſervation</hi> of the <hi>Rights, Religion,</hi> and <hi>Liberties</hi> of Our <hi>Proteſtant</hi> Subjects at Home, both ſo <hi>Sworn,</hi> and ſo <hi>Per<g ref="char:EOLhyphen"/>formed,</hi> ſtand the ever Living <hi>Monu<g ref="char:EOLhyphen"/>ments</hi> of Our <hi>Inviolable</hi> FAITH: So We have no Reaſon to fear that the Miſdoubts of our <hi>Foes,</hi> or the Jealouſies of <hi>Europe,</hi> with any ſhadow of <hi>Juſtice,</hi> ſhould dipute the <hi>Honour</hi> and <hi>Inte<g ref="char:EOLhyphen"/>grity</hi> of Our preſent <hi>Royal Word</hi> on this humbler Occaſion; when, in a more Important Cauſe, under thoſe <hi>Higher</hi> fore-mentioned <hi>Obligations</hi> of <hi>Oaths</hi> and <hi>Sacraments</hi> We have ſo
+<pb n="2" facs="tcp:180278:2"/>
+               <hi>Gloriouſly</hi> Signalized Our <hi>Vnſhaken Veracity.</hi>
+            </p>
+            <p>
+               <hi>Directly and Indirectly, We therefore Declare,</hi>
+            </p>
+            <p>WE are thoſe utter Strangers to this <hi>Murtherous Deſign,</hi> (as indeed <hi>Blood<g ref="char:EOLhyphen"/>ſhed</hi> has always been Our greateſt <hi>De<g ref="char:EOLhyphen"/>teſtation</hi>) That,</p>
+            <p>
+               <hi>Firſt,</hi> to right Our <hi>Vnhappy Bro<g ref="char:EOLhyphen"/>ther</hi> of <hi>England,</hi> whom it more nearly touches (Our <hi>Greatneſs</hi> and <hi>Reputa<g ref="char:EOLhyphen"/>tion</hi> being above the reach of <hi>Calum<g ref="char:EOLhyphen"/>ny</hi>) that it is altogether ſo impoſſible for Him, even in a <hi>Wiſh</hi> or <hi>Thought,</hi> to aſſent to ſo Barbarous an <hi>Aſſaſſina<g ref="char:EOLhyphen"/>tion;</hi> that on the contrary, he <hi>dares,</hi> (in ſo vile a Condeſcenſion) no more violate His <hi>Royal <hi>Honour,</hi>
+               </hi> than He durſt His <hi>Royal <hi>Faith.</hi>
+               </hi>
+            </p>
+            <p>Even the very <hi>Breach</hi> of a <hi>Corona<g ref="char:EOLhyphen"/>tion Oath</hi> is not His greater <hi>Abhorrence:</hi> Inſomuch that He Publickly <hi>Declares,</hi> He equally Shrinks at <hi>This,</hi> as He has always Trembled at <hi>That.</hi>
+            </p>
+            <p>And, for the further clearing <hi>Both</hi> Our <hi>Royal Names,</hi> from that hideous Imputation; It is not only inconſiſtent both with the <hi>Characters</hi> and <hi>Profeſſions</hi> of the Great <hi>Lewis</hi> and <hi>James</hi> the <hi>Iuſt;</hi> but even contrary to our very <hi>Natures;</hi> 'Tis <hi>Baſeneſs</hi> and <hi>Cowardice</hi> dare only ſtoop to a <hi>Shameful Act,</hi> when true <hi>Bravêry</hi> and true <hi>Courage</hi> even ſtart at the Horrour of <hi>It.</hi> Can WE whoſe <hi>Whole</hi> Lives have been one Scene of <hi>Glory, <hi>Nurſt</hi>
+               </hi> up to hardy <hi>Virtue, <hi>Bred</hi>
+               </hi> in <hi>Camps,</hi> that have <hi>Faced <hi>Death</hi>
+               </hi> and <hi>Dangers</hi> in their <hi>neareſt</hi> and <hi>hotteſt Front, <hi>Marcht</hi>
+               </hi> always <hi>Foremoſt</hi> in the Boldeſt <hi>Van</hi> of <hi>Honeur; <hi>Led</hi>
+               </hi> Our own <hi>Battles, <hi>Fought</hi>
+               </hi> Our own <hi>Fields,</hi> and only, with Our own <hi>Perſonal</hi> Valour, Planted all our Groves of <hi>Law<g ref="char:EOLhyphen"/>rels:</hi> Can WE conſent! WE to this vile <hi>Stroke?</hi> No; 'tis a Work, a Task, a <hi>Villany</hi> for <hi>Slaves</hi> and <hi>Vagrants:</hi> And if 'tis poſſible a <hi>King</hi> can <hi>ſtoop</hi> ſo Low, 'tis only the Crown'd-Head with the <hi>Poor Spirited</hi> Soul, the <hi>Mars ad opus Veneris,</hi> that hears his own <hi>Martial Thunder</hi> only at the <hi>Safe</hi> Diſtance of a <hi>Danaes</hi> Arms; <hi>Tyrants</hi> who break through all <hi>Laws; <hi>Perjurers</hi>
+               </hi> that break through all <hi>Oaths</hi> and <hi>Sacraments;</hi> NEROE'S that only Sing to <hi>Groans</hi> &amp; <hi>Conſlagrations;</hi> Theſe are the <hi>Hands</hi> and <hi>Hearts</hi> for ſuch an Undertaking.</p>
+            <p>Nay, for a yet more <hi>particular <hi>Vin<g ref="char:EOLhyphen"/>dication</hi>
+               </hi> of Our Injured Brother of <hi>England,</hi> He declares himſelf ſo far (e<g ref="char:EOLhyphen"/>ven in his common Principles of <hi>Hu<g ref="char:EOLhyphen"/>manity</hi>) from <hi>Aiding, Abetting,</hi> or <hi>Arm<g ref="char:EOLhyphen"/>ing</hi> a <hi>Cut-Throat,</hi> an <hi>Aſſaſſinate,</hi> a <hi>Maſſacrer,</hi> or any ſuch <hi>Wolfe</hi> or <hi>Blood-Hound,</hi> that His whole Four Years <hi>Raign</hi> has amply <hi>Confuted</hi> that Malicious <hi>A<g ref="char:EOLhyphen"/>ſperſion;</hi> witneſs his Generous <hi>Hiberni<g ref="char:EOLhyphen"/>an <hi>Reformation,</hi>
+               </hi> under His ever Sa<g ref="char:EOLhyphen"/>cred <hi>Repreſentative</hi> TYRCONNEL, the trueſt Image of the <hi>Britannick Majesty;</hi> who inſtead of continuing the <hi>Sword,</hi> the <hi>Power,</hi> and <hi>Truſt,</hi> in dangerous <hi>Unconfiding</hi> Hands, He con<g ref="char:EOLhyphen"/>ferr'd the <hi>Gentler</hi> Reins of Sway to thoſe Tenderer <hi>Native</hi> Favourites, thoſe ever celebrated Sons of <hi>Mercy,</hi> Children of <hi>Peace,</hi> that truly <hi>Venomleſs</hi> Race, ſo Canonized for <hi>Saints,</hi> in his Great <hi>Fathers</hi> Raign: That this ſin<g ref="char:EOLhyphen"/>gle Teſtimony alone muſt confront all the Snarls of <hi>Defamation,</hi> and every Hiſſing <hi>Snake</hi> againſt Him; and too notoriouſly teſtify, That neither a <hi>Poin<g ref="char:EOLhyphen"/>yard,</hi> a <hi>Stiletto,</hi> a <hi>Butcher,</hi> or a <hi>Ruffian,</hi> yet ever <hi>were,</hi> or ever <hi>ſhall be</hi> his En<g ref="char:EOLhyphen"/>couragement or Protection; Inſomuch, that to ſumm up his whole <hi>Compurgati<g ref="char:EOLhyphen"/>on,</hi> He Avows, from his Heart, and deſires the World to <hi>Believe</hi> Him, That any thing that touches his <hi>Honour</hi> is a <hi>Point</hi> ſo <hi>Nice,</hi> that he would han<g ref="char:EOLhyphen"/>dle it with the very ſame <hi>Tenderneſs</hi> as he would a <hi>Colledge,</hi> a <hi>Biſhop,</hi> a
+<pb n="3" facs="tcp:180278:2"/>
+               <hi>Charter,</hi> or any thing yet <hi>Deareſt</hi> and <hi>Neareſt</hi> to him.</p>
+            <p>But if the <hi>Infidel</hi> World either obſti<g ref="char:EOLhyphen"/>nately <hi>will not,</hi> or poorly <hi>dare not</hi> be<g ref="char:EOLhyphen"/>lieve our own Royal <hi>Proteſtations,</hi> That <hi>Treachery</hi> and <hi>Baſeneſs</hi> are Our vileſt <hi>Scorn,</hi> WE call the very <hi>Powers</hi> above, for Our great <hi>Atteſtators,</hi> Our St. <hi>Coleman,</hi> and St. <hi>Granville,</hi> the Im<g ref="char:EOLhyphen"/>mortal Witneſſes of Our <hi>never Dying</hi> Renown.</p>
+            <p>Having thus <hi>amply</hi> aſſerted and e<g ref="char:EOLhyphen"/>vinced Our whole Royal <hi>Integrity,</hi> and Combated and Conquered the whole Rancour of <hi>Malice</hi> it ſelf; ne<g ref="char:EOLhyphen"/>vertheleſs WE acknowledge We had deſign'd and purpoſed an <hi>Invaſion of</hi> England; and that in no leſs Cauſe than Our Brothers <hi>Reſtauration;</hi> and for that, and that <hi>Only</hi> Great End We had firmly Reſolved the <hi>Attacquing of the</hi> Prince <hi>of</hi> Orange <hi>in his Winter Camp.</hi>
+            </p>
+            <p>
+               <hi>And here, We farther De<g ref="char:EOLhyphen"/>clare,</hi>
+            </p>
+            <p>In all the <hi>Meaſures</hi> and <hi>Movements,</hi> taken and made, in and towards that Deſign, WE were ſo far from any <hi>Clandeſtine</hi> or <hi>Unprincely</hi> Steps or Ad<g ref="char:EOLhyphen"/>vances, that on the contrary WE pur<g ref="char:EOLhyphen"/>poſed nothing leſs than all the <hi>Fair <hi>Hoſtility</hi>
+               </hi> of an <hi>Open</hi> and <hi>Generous</hi> Enemy; ſo <hi>Fair,</hi> that from <hi>Noſtroda<g ref="char:EOLhyphen"/>mus</hi> his <hi>Propheticks,</hi> and ſome other <hi>Gal<g ref="char:EOLhyphen"/>lick <hi>Prognoſticks</hi>
+               </hi> of Our <hi>Succeſs,</hi> WE had already <hi>Before Hand</hi> Blazoned Our whole <hi>Triumph</hi> and <hi>Glory</hi> in <hi>Medals of Gold,</hi> having reſolved to give that <hi>Ec<g ref="char:EOLhyphen"/>ce magnus Ahſalon</hi> the very ſame <hi>Ho<g ref="char:EOLhyphen"/>nourable <hi>Perſonal</hi>
+               </hi> Treatment, as WE have already done in <hi>Effigie.</hi>
+            </p>
+            <p>And here, to ſilence another too po<g ref="char:EOLhyphen"/>pular <hi>Jealouſy,</hi>
+            </p>
+            <p>
+               <hi>We likewiſe firmly Declare,</hi>
+            </p>
+            <p>That the ſaid <hi>Invaſion of</hi> England was ſo far from any <hi>Private</hi> or <hi>Siniſter</hi> Ambition of <hi>Our Own,</hi> But only Our Free and Voluntary Service of Our <hi>Exiled Brother,</hi> His <hi>Britannick Majeſty,</hi> that on the contrary to take off all Umbrage of any ſuch Suſpicion, the very <hi>Forces</hi> VVE lent Him, were whol<g ref="char:EOLhyphen"/>ly compoſed of Our own <hi>Native <hi>Ve<g ref="char:EOLhyphen"/>teranes,</hi>
+               </hi> Our ever <hi>Tryed</hi> ever <hi>Faith<g ref="char:EOLhyphen"/>ful,</hi> and ever <hi>Sworn <hi>Domeſticks</hi>
+               </hi> and <hi>Vaſſals;</hi> by <hi>this,</hi> and all other Repeat<g ref="char:EOLhyphen"/>ed <hi>Demonſtrations,</hi> deſiring to <hi>Manifeſt</hi> that VVE had no other than this <hi>Gene<g ref="char:EOLhyphen"/>rous Deſign, viz.</hi> That as our Siſter <hi>Bri<g ref="char:EOLhyphen"/>tannia</hi> had ſo long worn <hi>Our <hi>Liſſes</hi>
+               </hi> in <hi>Her</hi> Scutcheon, we could not, but in Common <hi>Civility</hi> and <hi>Gratitude,</hi> return <hi>Her</hi> the <hi>Honour</hi> of wearing <hi>Her <hi>Lyons</hi>
+               </hi> in <hi>Ours.</hi>
+            </p>
+            <p>And here WE cannot but with <hi>Sighs</hi> reflect, what <hi>Inexpresſible <hi>Bleſſings,</hi>
+               </hi> has <hi>England</hi> loſt, by the <hi>Defeat</hi> of this Glorious <hi>Expedition;</hi> when that e<g ref="char:EOLhyphen"/>ver <hi>Truly <hi>Indulgent</hi>
+               </hi> Father of his <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> their Pious <hi>James,</hi> that Sway'd with that <hi>Righteous,</hi> that <hi>Mercyful,</hi> and that <hi>Moderate</hi> Adminiſtration, under the Reſtriction of a <hi>Limited</hi> Scepter, the <hi>Shackles</hi> of LAVV; to what <hi>tende<g ref="char:EOLhyphen"/>rer, ſofter,</hi> and <hi>ſerener</hi> Raign of <hi>Good<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Mercy,</hi> had Our <hi>Sword</hi> re<g ref="char:EOLhyphen"/>ſtored Him, when Reſeated on His Throne, under thoſe <hi>Unbounded,</hi> all <hi>Halcyon,</hi> all <hi>Gentle <hi>Deſpoticks</hi>
+               </hi> of CONQUEST.</p>
+            <p>Nor, in Juſtice to Our Dear Brother, can VVE leſs than Remonſtrate what <hi>Thankful</hi> Acknowledgments, and what <hi>Ample</hi> Retributions &amp; Rewards His <hi>Proteſtant Subjects,</hi> upon their Re<g ref="char:EOLhyphen"/>turn to their Duty and Allegiance, ſhould have Received from His Roy<g ref="char:EOLhyphen"/>al <hi>Munifence,</hi> eſpecially thoſe that ſig<g ref="char:EOLhyphen"/>nalized their Loyal Affections in any <hi>Aſſiſtance</hi> or <hi>Service</hi> towards his <hi>Re<g ref="char:EOLhyphen"/>ſtoration.</hi>
+            </p>
+            <p>For <hi>Ingratitude,</hi> that <hi>unkingly,</hi> nay <hi>unmanly <hi>Shame,</hi>
+               </hi> was ever the na<g ref="char:EOLhyphen"/>tural
+<pb n="4" facs="tcp:180278:3"/>
+               <hi>Loathing</hi> and <hi>Averſion</hi> to the ve<g ref="char:EOLhyphen"/>ry <hi>Name</hi> of the STUARTS: wit<g ref="char:EOLhyphen"/>neſs the whole Long Raign of His, and Our late dear <hi>Brother,</hi> the <hi>Second</hi> ever Illuſtrious <hi>CHARLS:</hi> For Inſtance, To thoſe very ROYALISTS, His Freinds, His Champions, and <hi>Reſto<g ref="char:EOLhyphen"/>rers,</hi> what <hi>Titles,</hi> what <hi>Honours,</hi> what <hi>Preferments,</hi> at his Recal to <hi>Empire,</hi> (like a kind <hi>Jupiter</hi> in <hi>Showrs of Gold</hi>) what <hi>generous,</hi> nay what <hi>unſpeakable</hi> Returnes of <hi>Gratitude</hi> did He heap and pour upon them, as the Fair <hi>Reward</hi> both of their whole exhauſted <hi>Patrimo<g ref="char:EOLhyphen"/>nies</hi> and exhauſted <hi>Veins:</hi> A <hi>Record</hi> in his <hi>Chronicles,</hi> that muſt keep his Memo<g ref="char:EOLhyphen"/>ry <hi>Fragrant</hi> even to lateſt Poſteri<g ref="char:EOLhyphen"/>ty.</p>
+            <p>And in the very <hi>ſame <hi>Current</hi>
+               </hi> and Channel of <hi>Glory,</hi> what <hi>equall</hi> Re<g ref="char:EOLhyphen"/>turns did the no leſs <hi>Grateful <hi>James</hi>
+               </hi> make to his ever Faithful <hi>Church of En<g ref="char:EOLunhyphen"/>gland,</hi> the only <hi>Hands</hi> and <hi>Hearts</hi> that ſtood in the Gap of his EXCLUSI<g ref="char:EOLhyphen"/>ON, and ſtemm'd the whole <hi>Torrent</hi> againſt him. And conſequently what yet, if Poſſible, <hi>more <hi>Grateful</hi>
+               </hi> Re<g ref="char:EOLhyphen"/>turnes, even to a <hi>Profuſeneſs</hi> of <hi>Royal Smiles,</hi> muſt they have expected from this <hi>ſecond</hi> Redoubled <hi>Merit.</hi> His <hi>Gratitude</hi> ſhould undoubtedly have ſo eminently <hi>ſhined,</hi> as not only to have Crown'd his <hi>Living,</hi> but even his <hi>Dy<g ref="char:EOLhyphen"/>ing</hi> Freinds; when not a <hi>Proteſtant <hi>Life</hi>
+               </hi> layd down, or one <hi>Vein</hi> let out, in ſo <hi>glorious</hi> a Cauſe but ſhould have been <hi>Rewarded</hi> ev'n with a <hi>Mauſole<g ref="char:EOLhyphen"/>um,</hi> no leſs then the <hi>Sepulcher</hi> and <hi>Monument</hi> of a <hi>Cannon,</hi> and a <hi>Dum<g ref="char:EOLhyphen"/>ferling.</hi>
+            </p>
+            <p>For indeed not only his dear Friends, but his equally dear Country, have in a manner been the <hi>Spouſe,</hi> and <hi>Wife of his Boſome,</hi> whom (as <hi>Chaſtity</hi> and <hi>Fidelity</hi> have been always Famed his faireſt <hi>Twin Virtues</hi>) he has ever <hi>Loved</hi> and <hi>Cheriſht</hi> with that Jnviolate <hi>Con<g ref="char:EOLhyphen"/>jugal</hi> Affection, even to an <hi>Vxori<g ref="char:EOLhyphen"/>ous</hi> Fondneſs.</p>
+            <p>
+               <hi>And Laſtly.</hi>
+            </p>
+            <p>To ſumme the <hi>Sincerity</hi> both of Our own and Our Dear <hi>Brothers Proteſtati<g ref="char:EOLhyphen"/>ons,</hi> together with all the Great Truths containd in this Publick <hi>Manifesto,</hi> We need but adde this Single <hi>Memoire</hi> to his ever Shining <hi>Royal Virtues; <hi>viz.</hi>
+               </hi> That as 'tis ſo eminently known to all Mankind, that Our <hi>Brother of En<g ref="char:EOLhyphen"/>gland</hi> has conſtantly imbibed his whole <hi>Rudiments</hi> of <hi>Glory,</hi> from <hi>Our <hi>Fountain</hi>
+               </hi> of <hi>Honour,</hi> and made it the whole Study of his Life to Pattern from Our <hi>Example:</hi> So; 'tis not to be <hi>doubt<g ref="char:EOLhyphen"/>ed,</hi> but his Late Seven Years Abode with <hi>Vs,</hi> has rather <hi>improved</hi> then <hi>im<g ref="char:EOLhyphen"/>pair'd</hi> thoſe <hi>Generous</hi> and <hi>Genuine</hi> Principles, and by an opener <hi>View</hi> and fairer <hi>Light,</hi> only taught him to copy yet <hi>nearer</hi> his Great <hi>Original.</hi>
+            </p>
+            <closer>
+               <dateline>Dated from Our Court at <hi>Verſailes,</hi> 
+                  <date>
+                     <hi>April</hi> the <hi>Firſt,</hi> 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: Printed for <hi>T. Vray,</hi> Book-ſeller in the <hi>Strand,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
